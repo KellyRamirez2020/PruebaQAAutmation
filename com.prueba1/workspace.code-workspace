@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "com.prueba1",
+			"path": "."
+		},
+		{
+			"name": ".idea",
+			"path": "..\\.idea"
+		},
+		{
+			"name": "PruebaQAAutmation",
+			"path": "..\\PruebaQAAutmation"
+		}
+	],
+	"settings": {}
+}
